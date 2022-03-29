@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+img{
+    width: 700px;
+    height: 300px;
+}
+.sketchpad {
+    width: 500px;
+    height: 500px;
+    display: grid;
+    justify-content: space-between;
+}
+
+.sizeForm {
+    margin: 0 auto;
+}
